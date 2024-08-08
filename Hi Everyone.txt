@@ -11,4 +11,5 @@ git config --global user.email "ur mail id"
 give enter
 git config --global user.name "ur git hub username"
 give enter
+git fetch
 
