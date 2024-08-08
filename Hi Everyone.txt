@@ -1,1 +1,14 @@
 Hi Everyone 
+GitHub command lines
+git clone 'shift insert'[link in repository]
+git upload cmt
+git add .
+git commit -m "just any msg"
+git push 
+
+git bash authorization cmts
+git config --global user.email "ur mail id" 
+give enter
+git config --global user.name "ur git hub username"
+give enter
+
